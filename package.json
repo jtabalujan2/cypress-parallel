@@ -1,5 +1,5 @@
 {
-  "name": "cypress-parallel-demo",
+  "name": "cypress-parallel-capitalrx",
   "version": "1.0.0",
   "description": "cypress-parallel Demo Project",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnicola/cypress-parallel.git"
+    "url": "git+https://github.com/jtabalujan2/cypress-parallel.git"
   },
   "author": "tnicola",
   "license": "MIT",
