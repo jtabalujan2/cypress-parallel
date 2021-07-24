@@ -1,6 +1,6 @@
 {
   "name": "cypress-parallel-capitalrx",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "cypress-parallel Demo Project",
   "main": "index.js",
   "scripts": {
