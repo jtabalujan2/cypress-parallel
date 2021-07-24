@@ -1,11 +1,11 @@
 {
-  "name": "cypress-parallel",
+  "name": "cypress-parallel-capitalrx",
   "version": "0.2.2",
   "description": "Reduce up to 40% your Cypress suite execution time parallelizing the test run on the same machine.",
   "main": "cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnicola/cypress-parallel.git"
+    "url": "git+https://github.com/jtabalujan2/cypress-parallel.git"
   },
   "keywords": [
     "cypress",
